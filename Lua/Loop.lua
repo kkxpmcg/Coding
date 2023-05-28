@@ -1,0 +1,19 @@
+
+--[[ Ñ­»·
+
+	while
+
+	for
+
+	repeat ...£until
+
+	Ñ­»·Ç¶Ì× £¨while do ... end, for ... do ...end, repeat ,,,until£©
+
+--]]
+
+--[[ Ñ­»·¿ØÖÆÓï¾ä
+	break
+
+	goto
+
+--]]

@@ -9,6 +9,8 @@ func main() {
 	fmt.Println("hello,world!")
 
 	test()
+
+	varibale()
 }
 
 // 变量第一个字母大写可以被外部访问

@@ -11,6 +11,16 @@ func main() {
 	test()
 
 	varibale()
+
+	fmt.Printf("\nmax = %v", max(10, 20))
+
+	fmt.Print("\n")
+
+	a, b := swap("1", "2")
+
+	fmt.Println(a, b)
+
+	funcExecute()
 }
 
 // 变量第一个字母大写可以被外部访问

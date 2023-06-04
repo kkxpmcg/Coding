@@ -21,6 +21,12 @@ func main() {
 	fmt.Println(a, b)
 
 	funcExecute()
+
+	arrayTest()
+
+	pointerTest()
+
+	StructTest()
 }
 
 // 变量第一个字母大写可以被外部访问

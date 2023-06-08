@@ -27,6 +27,14 @@ func main() {
 	pointerTest()
 
 	StructTest()
+
+	SliceTest()
+
+	leetcode_35()
+
+	RangeTest()
+
+	MapTest()
 }
 
 // 变量第一个字母大写可以被外部访问
